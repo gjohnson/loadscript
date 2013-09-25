@@ -1,0 +1,27 @@
+{
+  "name": "loadscript",
+  "version": "0.0.0",
+  "description": "non-featureful redis script loader",
+  "main": "index.js",
+  "dependencies": {
+    "redis": "~0.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gjohnson/loadscript"
+  },
+  "keywords": [
+    "redis",
+    "lua",
+    "evalsha"
+  ],
+  "author": "Garrett Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gjohnson/loadscript/issues"
+  }
+}
