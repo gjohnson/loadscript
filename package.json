@@ -1,6 +1,6 @@
 {
   "name": "loadscript",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "non-featureful redis script loader",
   "main": "index.js",
   "dependencies": {
